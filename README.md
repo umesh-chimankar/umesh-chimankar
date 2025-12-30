@@ -28,14 +28,12 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Statistics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umesh-chimankar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=umesh-chimankar&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh-chimankar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umesh-chimankar&show_icons=true" />
 </p>
+
 
 ---
 
