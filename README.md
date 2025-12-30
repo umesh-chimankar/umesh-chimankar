@@ -28,15 +28,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Statistics  
 
-## 📊 GitHub Statistics  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umesh-chimankar&show_icons=true" />
 </p>
 
-
 ---
-
 
 ## 🚀 Professional Summary  
 
