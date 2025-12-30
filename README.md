@@ -55,7 +55,7 @@ Savitribai Phule Pune University | 2025
 C-DAC Hyderabad | 2021  
 
 🎓 **Bachelor of Engineering – Electronics & Communication**  
-KBC North Maharashtra University, Jalgaon | 2018  
+KBC North Maharashtra University, Jalgaon | 2019  
 
 ---
 
